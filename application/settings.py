@@ -41,7 +41,7 @@ DEBUG = config.getboolean('common', 'debug')
 
 TEMPLATE_DEBUG = config.getboolean('common', 'debug')
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
