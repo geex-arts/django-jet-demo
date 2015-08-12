@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-29 14:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: apps.py:7
+msgid "Menu"
+msgstr "Меню"
+
+#: models.py:10 models.py:25
+msgid "order"
+msgstr "порядок"
+
+#: models.py:14
+msgid "menu item category"
+msgstr "категория пункта меню"
+
+#: models.py:15
+msgid "menu item categories"
+msgstr "категории пунктов меню"
+
+#: models.py:22
+msgid "name"
+msgstr "название"
+
+#: models.py:23
+msgid "parent menu item"
+msgstr "родительский пункт"
+
+#: models.py:26
+msgid "category"
+msgstr "категория"
+
+#: models.py:29
+msgid "menu item"
+msgstr "пункт меню"
+
+#: models.py:30
+msgid "menu items"
+msgstr "пункты меню"
