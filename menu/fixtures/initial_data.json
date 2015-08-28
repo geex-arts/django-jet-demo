@@ -1,0 +1,124 @@
+[
+{
+  "fields": {
+    "order": 1,
+    "title": "Main"
+  },
+  "model": "menu.menuitemcategory",
+  "pk": 1
+},
+{
+  "fields": {
+    "order": 2,
+    "title": "Feed"
+  },
+  "model": "menu.menuitemcategory",
+  "pk": 2
+},
+{
+  "fields": {
+    "order": 3,
+    "title": "User"
+  },
+  "model": "menu.menuitemcategory",
+  "pk": 3
+},
+{
+  "fields": {
+    "category": 1,
+    "rght": 2,
+    "name": "Home",
+    "parent": null,
+    "level": 0,
+    "lft": 1,
+    "tree_id": 3,
+    "order": 1
+  },
+  "model": "menu.menuitem",
+  "pk": 1
+},
+{
+  "fields": {
+    "category": 1,
+    "rght": 2,
+    "name": "Content",
+    "parent": null,
+    "level": 0,
+    "lft": 1,
+    "tree_id": 2,
+    "order": 2
+  },
+  "model": "menu.menuitem",
+  "pk": 2
+},
+{
+  "fields": {
+    "category": 3,
+    "rght": 2,
+    "name": "Logout",
+    "parent": null,
+    "level": 0,
+    "lft": 1,
+    "tree_id": 4,
+    "order": 0
+  },
+  "model": "menu.menuitem",
+  "pk": 3
+},
+{
+  "fields": {
+    "category": 2,
+    "rght": 4,
+    "name": "Blogs",
+    "parent": null,
+    "level": 0,
+    "lft": 1,
+    "tree_id": 1,
+    "order": 0
+  },
+  "model": "menu.menuitem",
+  "pk": 4
+},
+{
+  "fields": {
+    "category": 2,
+    "rght": 3,
+    "name": "Topics",
+    "parent": 4,
+    "level": 1,
+    "lft": 2,
+    "tree_id": 1,
+    "order": 0
+  },
+  "model": "menu.menuitem",
+  "pk": 5
+},
+{
+  "fields": {
+    "category": 2,
+    "rght": 2,
+    "name": "Photos",
+    "parent": null,
+    "level": 0,
+    "lft": 1,
+    "tree_id": 5,
+    "order": 0
+  },
+  "model": "menu.menuitem",
+  "pk": 6
+},
+{
+  "fields": {
+    "category": 2,
+    "rght": 2,
+    "name": "Videos",
+    "parent": null,
+    "level": 0,
+    "lft": 1,
+    "tree_id": 6,
+    "order": 0
+  },
+  "model": "menu.menuitem",
+  "pk": 7
+}
+]
