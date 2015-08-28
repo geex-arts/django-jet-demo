@@ -5,5 +5,5 @@ class Command(BaseCommand):
     help = 'Resets database'
 
     def handle(self, *args, **options):
-        call_command('flush', '--no-input')
+        call_command('flush', '--noinput')
 
