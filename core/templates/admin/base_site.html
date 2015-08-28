@@ -1,0 +1,18 @@
+{% extends "admin/base.html" %}
+{% load static i18n %}
+
+{% block branding %}
+    <h1 id="site-name">
+        <span class="icon-jet"></span> {% trans "JET DEMO" %}
+    </h1>
+{% endblock %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css" href="{% static "core/css/branding.css" %}" />
+{% endblock %}
+
+{% block nav-global %}
+    <li class="sidebar-menu-item">
+        <a href="https://github.com/geex-arts/jet" class="sidebar-menu-item-link">{% trans 'Visit GitHub page' %}</a>
+    </li>
+{% endblock %}
