@@ -48,7 +48,6 @@ ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = (
     'jet',
-    'application',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -59,6 +58,7 @@ INSTALLED_APPS = (
     'adminsortable2',
     'mptt',
     'debug_toolbar',
+    'core',
     'people',
     'menu',
 )
