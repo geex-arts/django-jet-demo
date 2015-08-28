@@ -1,0 +1,11 @@
+#branding {
+    background-color: #2B3647;
+    padding: 14px 0;
+    text-align: center;
+}
+
+#branding #site-name {
+    margin: 0;
+    font-size: 20px;
+    letter-spacing: 4px;
+}

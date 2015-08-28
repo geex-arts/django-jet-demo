@@ -77,6 +77,10 @@ TEMPLATE_CONTEXT_PROCESSORS = global_settings.TEMPLATE_CONTEXT_PROCESSORS + (
     'django.core.context_processors.request',
 )
 
+TEMPLATE_DIRS = (
+    'core/templates',
+)
+
 ROOT_URLCONF = 'application.urls'
 
 WSGI_APPLICATION = 'application.wsgi.application'
