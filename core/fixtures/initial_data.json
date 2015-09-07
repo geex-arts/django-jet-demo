@@ -1,8 +1,8 @@
 [
 {
   "fields": {
-    "codename": "add_bookmark",
     "name": "Can add bookmark",
+    "codename": "add_bookmark",
     "content_type": 1
   },
   "model": "auth.permission",
@@ -10,8 +10,8 @@
 },
 {
   "fields": {
-    "codename": "change_bookmark",
     "name": "Can change bookmark",
+    "codename": "change_bookmark",
     "content_type": 1
   },
   "model": "auth.permission",
@@ -19,8 +19,8 @@
 },
 {
   "fields": {
-    "codename": "delete_bookmark",
     "name": "Can delete bookmark",
+    "codename": "delete_bookmark",
     "content_type": 1
   },
   "model": "auth.permission",
@@ -28,8 +28,8 @@
 },
 {
   "fields": {
-    "codename": "add_pinnedapplication",
     "name": "Can add pinned application",
+    "codename": "add_pinnedapplication",
     "content_type": 2
   },
   "model": "auth.permission",
@@ -37,8 +37,8 @@
 },
 {
   "fields": {
-    "codename": "change_pinnedapplication",
     "name": "Can change pinned application",
+    "codename": "change_pinnedapplication",
     "content_type": 2
   },
   "model": "auth.permission",
@@ -46,8 +46,8 @@
 },
 {
   "fields": {
-    "codename": "delete_pinnedapplication",
     "name": "Can delete pinned application",
+    "codename": "delete_pinnedapplication",
     "content_type": 2
   },
   "model": "auth.permission",
@@ -55,8 +55,8 @@
 },
 {
   "fields": {
-    "codename": "add_userdashboardmodule",
     "name": "Can add user dashboard module",
+    "codename": "add_userdashboardmodule",
     "content_type": 3
   },
   "model": "auth.permission",
@@ -64,8 +64,8 @@
 },
 {
   "fields": {
-    "codename": "change_userdashboardmodule",
     "name": "Can change user dashboard module",
+    "codename": "change_userdashboardmodule",
     "content_type": 3
   },
   "model": "auth.permission",
@@ -73,8 +73,8 @@
 },
 {
   "fields": {
-    "codename": "delete_userdashboardmodule",
     "name": "Can delete user dashboard module",
+    "codename": "delete_userdashboardmodule",
     "content_type": 3
   },
   "model": "auth.permission",
@@ -82,8 +82,8 @@
 },
 {
   "fields": {
-    "codename": "add_logentry",
     "name": "Can add log entry",
+    "codename": "add_logentry",
     "content_type": 4
   },
   "model": "auth.permission",
@@ -91,8 +91,8 @@
 },
 {
   "fields": {
-    "codename": "change_logentry",
     "name": "Can change log entry",
+    "codename": "change_logentry",
     "content_type": 4
   },
   "model": "auth.permission",
@@ -100,8 +100,8 @@
 },
 {
   "fields": {
-    "codename": "delete_logentry",
     "name": "Can delete log entry",
+    "codename": "delete_logentry",
     "content_type": 4
   },
   "model": "auth.permission",
@@ -109,8 +109,8 @@
 },
 {
   "fields": {
-    "codename": "add_permission",
     "name": "Can add permission",
+    "codename": "add_permission",
     "content_type": 5
   },
   "model": "auth.permission",
@@ -118,8 +118,8 @@
 },
 {
   "fields": {
-    "codename": "change_permission",
     "name": "Can change permission",
+    "codename": "change_permission",
     "content_type": 5
   },
   "model": "auth.permission",
@@ -127,8 +127,8 @@
 },
 {
   "fields": {
-    "codename": "delete_permission",
     "name": "Can delete permission",
+    "codename": "delete_permission",
     "content_type": 5
   },
   "model": "auth.permission",
@@ -136,8 +136,8 @@
 },
 {
   "fields": {
-    "codename": "add_group",
     "name": "Can add group",
+    "codename": "add_group",
     "content_type": 6
   },
   "model": "auth.permission",
@@ -145,8 +145,8 @@
 },
 {
   "fields": {
-    "codename": "change_group",
     "name": "Can change group",
+    "codename": "change_group",
     "content_type": 6
   },
   "model": "auth.permission",
@@ -154,8 +154,8 @@
 },
 {
   "fields": {
-    "codename": "delete_group",
     "name": "Can delete group",
+    "codename": "delete_group",
     "content_type": 6
   },
   "model": "auth.permission",
@@ -163,8 +163,8 @@
 },
 {
   "fields": {
-    "codename": "add_user",
     "name": "Can add user",
+    "codename": "add_user",
     "content_type": 7
   },
   "model": "auth.permission",
@@ -172,8 +172,8 @@
 },
 {
   "fields": {
-    "codename": "change_user",
     "name": "Can change user",
+    "codename": "change_user",
     "content_type": 7
   },
   "model": "auth.permission",
@@ -181,8 +181,8 @@
 },
 {
   "fields": {
-    "codename": "delete_user",
     "name": "Can delete user",
+    "codename": "delete_user",
     "content_type": 7
   },
   "model": "auth.permission",
@@ -190,8 +190,8 @@
 },
 {
   "fields": {
-    "codename": "add_contenttype",
     "name": "Can add content type",
+    "codename": "add_contenttype",
     "content_type": 8
   },
   "model": "auth.permission",
@@ -199,8 +199,8 @@
 },
 {
   "fields": {
-    "codename": "change_contenttype",
     "name": "Can change content type",
+    "codename": "change_contenttype",
     "content_type": 8
   },
   "model": "auth.permission",
@@ -208,8 +208,8 @@
 },
 {
   "fields": {
-    "codename": "delete_contenttype",
     "name": "Can delete content type",
+    "codename": "delete_contenttype",
     "content_type": 8
   },
   "model": "auth.permission",
@@ -217,8 +217,8 @@
 },
 {
   "fields": {
-    "codename": "add_session",
     "name": "Can add session",
+    "codename": "add_session",
     "content_type": 9
   },
   "model": "auth.permission",
@@ -226,8 +226,8 @@
 },
 {
   "fields": {
-    "codename": "change_session",
     "name": "Can change session",
+    "codename": "change_session",
     "content_type": 9
   },
   "model": "auth.permission",
@@ -235,8 +235,8 @@
 },
 {
   "fields": {
-    "codename": "delete_session",
     "name": "Can delete session",
+    "codename": "delete_session",
     "content_type": 9
   },
   "model": "auth.permission",
@@ -244,8 +244,8 @@
 },
 {
   "fields": {
-    "codename": "add_company",
     "name": "Can add company",
+    "codename": "add_company",
     "content_type": 10
   },
   "model": "auth.permission",
@@ -253,8 +253,8 @@
 },
 {
   "fields": {
-    "codename": "change_company",
     "name": "Can change company",
+    "codename": "change_company",
     "content_type": 10
   },
   "model": "auth.permission",
@@ -262,8 +262,8 @@
 },
 {
   "fields": {
-    "codename": "delete_company",
     "name": "Can delete company",
+    "codename": "delete_company",
     "content_type": 10
   },
   "model": "auth.permission",
@@ -271,8 +271,8 @@
 },
 {
   "fields": {
-    "codename": "add_state",
     "name": "Can add state",
+    "codename": "add_state",
     "content_type": 11
   },
   "model": "auth.permission",
@@ -280,8 +280,8 @@
 },
 {
   "fields": {
-    "codename": "change_state",
     "name": "Can change state",
+    "codename": "change_state",
     "content_type": 11
   },
   "model": "auth.permission",
@@ -289,8 +289,8 @@
 },
 {
   "fields": {
-    "codename": "delete_state",
     "name": "Can delete state",
+    "codename": "delete_state",
     "content_type": 11
   },
   "model": "auth.permission",
@@ -298,8 +298,8 @@
 },
 {
   "fields": {
-    "codename": "add_county",
     "name": "Can add county",
+    "codename": "add_county",
     "content_type": 12
   },
   "model": "auth.permission",
@@ -307,8 +307,8 @@
 },
 {
   "fields": {
-    "codename": "change_county",
     "name": "Can change county",
+    "codename": "change_county",
     "content_type": 12
   },
   "model": "auth.permission",
@@ -316,8 +316,8 @@
 },
 {
   "fields": {
-    "codename": "delete_county",
     "name": "Can delete county",
+    "codename": "delete_county",
     "content_type": 12
   },
   "model": "auth.permission",
@@ -325,8 +325,8 @@
 },
 {
   "fields": {
-    "codename": "add_city",
     "name": "Can add city",
+    "codename": "add_city",
     "content_type": 13
   },
   "model": "auth.permission",
@@ -334,8 +334,8 @@
 },
 {
   "fields": {
-    "codename": "change_city",
     "name": "Can change city",
+    "codename": "change_city",
     "content_type": 13
   },
   "model": "auth.permission",
@@ -343,8 +343,8 @@
 },
 {
   "fields": {
-    "codename": "delete_city",
     "name": "Can delete city",
+    "codename": "delete_city",
     "content_type": 13
   },
   "model": "auth.permission",
@@ -352,8 +352,8 @@
 },
 {
   "fields": {
-    "codename": "add_address",
     "name": "Can add address",
+    "codename": "add_address",
     "content_type": 14
   },
   "model": "auth.permission",
@@ -361,8 +361,8 @@
 },
 {
   "fields": {
-    "codename": "change_address",
     "name": "Can change address",
+    "codename": "change_address",
     "content_type": 14
   },
   "model": "auth.permission",
@@ -370,8 +370,8 @@
 },
 {
   "fields": {
-    "codename": "delete_address",
     "name": "Can delete address",
+    "codename": "delete_address",
     "content_type": 14
   },
   "model": "auth.permission",
@@ -379,8 +379,8 @@
 },
 {
   "fields": {
-    "codename": "add_person",
     "name": "Can add person",
+    "codename": "add_person",
     "content_type": 15
   },
   "model": "auth.permission",
@@ -388,8 +388,8 @@
 },
 {
   "fields": {
-    "codename": "change_person",
     "name": "Can change person",
+    "codename": "change_person",
     "content_type": 15
   },
   "model": "auth.permission",
@@ -397,8 +397,8 @@
 },
 {
   "fields": {
-    "codename": "delete_person",
     "name": "Can delete person",
+    "codename": "delete_person",
     "content_type": 15
   },
   "model": "auth.permission",
@@ -406,8 +406,8 @@
 },
 {
   "fields": {
-    "codename": "add_menuitemcategory",
     "name": "Can add menu item category",
+    "codename": "add_menuitemcategory",
     "content_type": 16
   },
   "model": "auth.permission",
@@ -415,8 +415,8 @@
 },
 {
   "fields": {
-    "codename": "change_menuitemcategory",
     "name": "Can change menu item category",
+    "codename": "change_menuitemcategory",
     "content_type": 16
   },
   "model": "auth.permission",
@@ -424,8 +424,8 @@
 },
 {
   "fields": {
-    "codename": "delete_menuitemcategory",
     "name": "Can delete menu item category",
+    "codename": "delete_menuitemcategory",
     "content_type": 16
   },
   "model": "auth.permission",
@@ -433,8 +433,8 @@
 },
 {
   "fields": {
-    "codename": "add_menuitem",
     "name": "Can add menu item",
+    "codename": "add_menuitem",
     "content_type": 17
   },
   "model": "auth.permission",
@@ -442,8 +442,8 @@
 },
 {
   "fields": {
-    "codename": "change_menuitem",
     "name": "Can change menu item",
+    "codename": "change_menuitem",
     "content_type": 17
   },
   "model": "auth.permission",
@@ -451,8 +451,8 @@
 },
 {
   "fields": {
-    "codename": "delete_menuitem",
     "name": "Can delete menu item",
+    "codename": "delete_menuitem",
     "content_type": 17
   },
   "model": "auth.permission",
@@ -460,20 +460,219 @@
 },
 {
   "fields": {
-    "username": "admin",
-    "first_name": "",
-    "last_name": "",
+    "name": "Can add rich text model",
+    "codename": "add_richtextmodel",
+    "content_type": 18
+  },
+  "model": "auth.permission",
+  "pk": 52
+},
+{
+  "fields": {
+    "name": "Can change rich text model",
+    "codename": "change_richtextmodel",
+    "content_type": 18
+  },
+  "model": "auth.permission",
+  "pk": 53
+},
+{
+  "fields": {
+    "name": "Can delete rich text model",
+    "codename": "delete_richtextmodel",
+    "content_type": 18
+  },
+  "model": "auth.permission",
+  "pk": 54
+},
+{
+  "fields": {
+    "email": "admin@example.com",
+    "is_staff": true,
+    "date_joined": "2015-08-28T12:39:36Z",
+    "password": "pbkdf2_sha256$20000$WrXnUvgmH4ir$iQrRDpw09oIazEzMC0los5CEoD6hA+r8bJ2IzUmv9nY=",
+    "user_permissions": [],
+    "groups": [],
     "is_active": true,
     "is_superuser": true,
-    "is_staff": true,
-    "last_login": null,
-    "groups": [],
-    "user_permissions": [],
-    "password": "pbkdf2_sha256$20000$WrXnUvgmH4ir$iQrRDpw09oIazEzMC0los5CEoD6hA+r8bJ2IzUmv9nY=",
-    "email": "admin@example.com",
-    "date_joined": "2015-08-28T12:39:36Z"
+    "last_name": "",
+    "username": "admin",
+    "last_login": "2015-09-07T15:00:17Z",
+    "first_name": ""
   },
   "model": "auth.user",
   "pk": 1
+},
+{
+  "fields": {
+    "user": 1,
+    "title": "NY state",
+    "url": "http://demo.jet.geex-arts.com/admin/people/state/16/",
+    "date_add": "2015-09-07T14:55:05Z"
+  },
+  "model": "jet.bookmark",
+  "pk": 1
+},
+{
+  "fields": {
+    "user": 1,
+    "app_label": "people",
+    "date_add": "2015-09-07T14:41:27Z"
+  },
+  "model": "jet.pinnedapplication",
+  "pk": 1
+},
+{
+  "fields": {
+    "user": 1,
+    "app_label": "editors",
+    "date_add": "2015-09-07T14:41:31Z"
+  },
+  "model": "jet.pinnedapplication",
+  "pk": 2
+},
+{
+  "fields": {
+    "user": 1,
+    "app_label": "menu",
+    "date_add": "2015-09-07T14:41:36Z"
+  },
+  "model": "jet.pinnedapplication",
+  "pk": 3
+},
+{
+  "fields": {
+    "children": "[{\"url\": \"/\", \"title\": \"Return to site\"}, {\"url\": \"/admin/password_change/\", \"title\": \"Change password\"}, {\"url\": \"/admin/logout/\", \"title\": \"Log out\"}]",
+    "column": 2,
+    "module": "jet.dashboard.modules.LinkList",
+    "user": 1,
+    "title": "Quick links",
+    "app_label": null,
+    "settings": "{\"layout\": \"inline\"}",
+    "order": 0,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 1
+},
+{
+  "fields": {
+    "children": "",
+    "column": 1,
+    "module": "jet.dashboard.modules.AppList",
+    "user": 1,
+    "title": "Applications",
+    "app_label": null,
+    "settings": "{\"exclude\": [\"auth.*\"], \"models\": null}",
+    "order": 1,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 2
+},
+{
+  "fields": {
+    "children": "",
+    "column": 1,
+    "module": "jet.dashboard.modules.AppList",
+    "user": 1,
+    "title": "Administration",
+    "app_label": null,
+    "settings": "{\"exclude\": null, \"models\": [\"auth.*\"]}",
+    "order": 2,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 3
+},
+{
+  "fields": {
+    "children": "",
+    "column": 2,
+    "module": "jet.dashboard.modules.RecentActions",
+    "user": 1,
+    "title": "Recent Actions",
+    "app_label": null,
+    "settings": "{\"include_list\": null, \"user\": null, \"limit\": 10, \"exclude_list\": null}",
+    "order": 2,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 4
+},
+{
+  "fields": {
+    "children": "",
+    "column": 2,
+    "module": "jet.dashboard.modules.Feed",
+    "user": 1,
+    "title": "Latest Django News",
+    "app_label": null,
+    "settings": "{\"limit\": 5, \"feed_url\": \"http://www.djangoproject.com/rss/weblog/\"}",
+    "order": 1,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 5
+},
+{
+  "fields": {
+    "children": "[{\"external\": true, \"url\": \"http://docs.djangoproject.com/\", \"title\": \"Django documentation\"}, {\"external\": true, \"url\": \"http://groups.google.com/group/django-users\", \"title\": \"Django \\\"django-users\\\" mailing list\"}, {\"external\": true, \"url\": \"irc://irc.freenode.net/django\", \"title\": \"Django irc channel\"}]",
+    "column": 0,
+    "module": "jet.dashboard.modules.LinkList",
+    "user": 1,
+    "title": "Support",
+    "app_label": null,
+    "settings": "{\"layout\": \"stacked\"}",
+    "order": 2,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 6
+},
+{
+  "fields": {
+    "children": "",
+    "column": 1,
+    "module": "jet.dashboard.dashboard_modules.google_analytics.GoogleAnalyticsVisitorsTotals",
+    "user": 1,
+    "title": "Google Analytics visitors totals",
+    "app_label": null,
+    "settings": "{\"counter\": \"108041921\", \"period\": \"0\", \"credential\": \"{\\\"token_expiry\\\": \\\"2015-09-07T15:37:49Z\\\", \\\"invalid\\\": false, \\\"token_response\\\": {\\\"access_token\\\": \\\"ya29.5wFCb0AjCe8o-MpqwAIlI4At8cMN5hw_QGZNYSU9RnbxnZw6ymojUW6frIDs7eTePe7h\\\", \\\"expires_in\\\": 3600, \\\"refresh_token\\\": \\\"1/1CYyqTQ6WW3MH_CEflvIRGSWNLp3V8tTfcQKtlLUm1U\\\", \\\"token_type\\\": \\\"Bearer\\\"}, \\\"_class\\\": \\\"OAuth2Credentials\\\", \\\"refresh_token\\\": \\\"1/1CYyqTQ6WW3MH_CEflvIRGSWNLp3V8tTfcQKtlLUm1U\\\", \\\"token_uri\\\": \\\"https://accounts.google.com/o/oauth2/token\\\", \\\"user_agent\\\": null, \\\"_module\\\": \\\"oauth2client.client\\\", \\\"client_id\\\": \\\"213559765482-u11oekasrlj9uin7qgd18das6cdas5o1.apps.googleusercontent.com\\\", \\\"revoke_uri\\\": \\\"https://accounts.google.com/o/oauth2/revoke\\\", \\\"access_token\\\": \\\"ya29.5wFCb0AjCe8o-MpqwAIlI4At8cMN5hw_QGZNYSU9RnbxnZw6ymojUW6frIDs7eTePe7h\\\", \\\"client_secret\\\": \\\"RjOsnPPyCOMvskhoIycFph9_\\\", \\\"id_token\\\": null, \\\"token_info_uri\\\": \\\"https://www.googleapis.com/oauth2/v2/tokeninfo\\\", \\\"scopes\\\": [\\\"https://www.googleapis.com/auth/analytics.readonly\\\"]}\"}",
+    "order": 0,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 7
+},
+{
+  "fields": {
+    "children": "",
+    "column": 0,
+    "module": "jet.dashboard.dashboard_modules.google_analytics.GoogleAnalyticsVisitorsChart",
+    "user": 1,
+    "title": "Google Analytics visitors chart",
+    "app_label": null,
+    "settings": "{\"counter\": \"108041921\", \"period\": \"6\", \"credential\": \"{\\\"token_expiry\\\": \\\"2015-09-07T15:38:08Z\\\", \\\"invalid\\\": false, \\\"token_response\\\": {\\\"access_token\\\": \\\"ya29.5wFHxkyzZ7dHktzYPnnHsAqwGnjf0oAwvI74mBj1UfNYGjONyq0VdvomzD0EovcYTOcI\\\", \\\"expires_in\\\": 3600, \\\"refresh_token\\\": \\\"1/Ax7O6AvABJNt8y85DqUgx6DvJV2vnnSgvTZbMIPNy8A\\\", \\\"token_type\\\": \\\"Bearer\\\"}, \\\"_class\\\": \\\"OAuth2Credentials\\\", \\\"refresh_token\\\": \\\"1/Ax7O6AvABJNt8y85DqUgx6DvJV2vnnSgvTZbMIPNy8A\\\", \\\"token_uri\\\": \\\"https://accounts.google.com/o/oauth2/token\\\", \\\"user_agent\\\": null, \\\"_module\\\": \\\"oauth2client.client\\\", \\\"client_id\\\": \\\"213559765482-u11oekasrlj9uin7qgd18das6cdas5o1.apps.googleusercontent.com\\\", \\\"revoke_uri\\\": \\\"https://accounts.google.com/o/oauth2/revoke\\\", \\\"access_token\\\": \\\"ya29.5wFHxkyzZ7dHktzYPnnHsAqwGnjf0oAwvI74mBj1UfNYGjONyq0VdvomzD0EovcYTOcI\\\", \\\"client_secret\\\": \\\"RjOsnPPyCOMvskhoIycFph9_\\\", \\\"id_token\\\": null, \\\"token_info_uri\\\": \\\"https://www.googleapis.com/oauth2/v2/tokeninfo\\\", \\\"scopes\\\": [\\\"https://www.googleapis.com/auth/analytics.readonly\\\"]}\", \"group\": \"day\", \"show\": \"ga:users\"}",
+    "order": 0,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 8
+},
+{
+  "fields": {
+    "children": "",
+    "column": 0,
+    "module": "jet.dashboard.dashboard_modules.google_analytics.GoogleAnalyticsPeriodVisitors",
+    "user": 1,
+    "title": "Google Analytics period visitors",
+    "app_label": null,
+    "settings": "{\"counter\": \"108041921\", \"period\": \"6\", \"credential\": \"{\\\"token_expiry\\\": \\\"2015-09-07T15:38:30Z\\\", \\\"invalid\\\": false, \\\"token_response\\\": {\\\"access_token\\\": \\\"ya29.5wGKSSMBUn359nFSm2tmNivhxp21l00hO7Sf7m9_mq8iaoboivYDrd34HKDxzj7o2GG_\\\", \\\"expires_in\\\": 3600, \\\"refresh_token\\\": \\\"1/rx4pWS5LDMLBiW1BmkQ0CCxfGT7DfPqDicUI80MbgCs\\\", \\\"token_type\\\": \\\"Bearer\\\"}, \\\"_class\\\": \\\"OAuth2Credentials\\\", \\\"refresh_token\\\": \\\"1/rx4pWS5LDMLBiW1BmkQ0CCxfGT7DfPqDicUI80MbgCs\\\", \\\"token_uri\\\": \\\"https://accounts.google.com/o/oauth2/token\\\", \\\"user_agent\\\": null, \\\"_module\\\": \\\"oauth2client.client\\\", \\\"client_id\\\": \\\"213559765482-u11oekasrlj9uin7qgd18das6cdas5o1.apps.googleusercontent.com\\\", \\\"revoke_uri\\\": \\\"https://accounts.google.com/o/oauth2/revoke\\\", \\\"access_token\\\": \\\"ya29.5wGKSSMBUn359nFSm2tmNivhxp21l00hO7Sf7m9_mq8iaoboivYDrd34HKDxzj7o2GG_\\\", \\\"client_secret\\\": \\\"RjOsnPPyCOMvskhoIycFph9_\\\", \\\"id_token\\\": null, \\\"token_info_uri\\\": \\\"https://www.googleapis.com/oauth2/v2/tokeninfo\\\", \\\"scopes\\\": [\\\"https://www.googleapis.com/auth/analytics.readonly\\\"]}\", \"group\": \"day\"}",
+    "order": 1,
+    "collapsed": false
+  },
+  "model": "dashboard.userdashboardmodule",
+  "pk": 9
 }
 ]
