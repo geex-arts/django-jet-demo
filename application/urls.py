@@ -10,4 +10,6 @@ urlpatterns = patterns(
     url(r'^jet/dashboard/', include('jet.dashboard.urls', 'jet-dashboard')),
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^ckeditor/', include('ckeditor.urls')),
+    url(r'^tinymce/', include('tinymce.urls')),
 )
