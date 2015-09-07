@@ -1,5 +1,6 @@
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
+from jet.dashboard.dashboard_modules import google_analytics_views
 
 admin.autodiscover()
 
