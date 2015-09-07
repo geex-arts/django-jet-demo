@@ -47,6 +47,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = (
+    'jet.dashboard',
     'jet',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -57,10 +58,13 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     'adminsortable2',
     'mptt',
+    'ckeditor',
+    'tinymce',
     'debug_toolbar',
     'core',
     'people',
     'menu',
+    'editors',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -172,5 +176,13 @@ LOGGING = {
 
 # Django JET
 
-JET_INDEX_DASHBOARD = 'jet.dashboard.DefaultIndexDashboard'
-JET_APP_INDEX_DASHBOARD = 'jet.dashboard.DefaultAppIndexDashboard'
+JET_INDEX_DASHBOARD = 'dashboard.CustomIndexDashboard'
+JET_APP_INDEX_DASHBOARD = 'dashboard.CustomAppIndexDashboard'
+
+JET_MODULE_YANDEX_METRIKA_CLIENT_ID = '46de85bff0f94c82bbf42be177f128a2'
+JET_MODULE_YANDEX_METRIKA_CLIENT_SECRET = '01107ac1049b49ab9b24e60e95ba2a93'
+JET_MODULE_GOOGLE_ANALYTICS_CLIENT_SECRETS_FILE = os.path.join(PROJECT_DIR, 'client_secrets.json')
+
+# CKEditor
+
+CKEDITOR_UPLOAD_PATH = 'uploads/'

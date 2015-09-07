@@ -1,0 +1,10 @@
+[
+{
+  "model": "editors.richtextmodel",
+  "fields": {
+    "ckeditor": "<p>Text example</p>\r\n",
+    "tinymce": "<p>Text example</p>"
+  },
+  "pk": 1
+}
+]
