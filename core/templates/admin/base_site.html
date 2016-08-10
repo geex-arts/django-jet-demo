@@ -8,6 +8,7 @@
 {% endblock %}
 
 {% block extrastyle %}
+    {{ block.super }}
     <link rel="stylesheet" type="text/css" href="{% static "core/css/branding.css" %}" />
     <link rel="stylesheet" type="text/css" href="{% static "core/css/icons/style.css" %}" />
 {% endblock %}
