@@ -11,6 +11,11 @@
 
 {% block breadcrumbs %}{% endblock %}
 
+{% block extrastyle %}
+    {{ block.super }}
+    <link rel="stylesheet" type="text/css" href="{% static "core/css/login.css" %}" />
+{% endblock %}
+
 {% block content %}
 <ul class="messagelist">
     <li class="info">Use "<strong>admin</strong>" for username and password</li>

@@ -507,7 +507,7 @@
   "fields": {
     "user": 1,
     "title": "NY state",
-    "url": "http://demo.jet.geex-arts.com/admin/people/state/16/",
+    "url": "/admin/people/state/16/",
     "date_add": "2015-09-07T14:55:05Z"
   },
   "model": "jet.bookmark",
