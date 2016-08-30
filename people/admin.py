@@ -1,5 +1,6 @@
 # encoding: utf-8
 from django.contrib import admin
+from jet.admin import CompactInline
 from people.models import Company, County, State, City, Address, Person
 from django.utils.translation import ugettext_lazy as _
 
@@ -10,7 +11,7 @@ class StateCountiesInline(admin.TabularInline):
     show_change_link = True
 
 
-class StateCitiesInline(admin.StackedInline):
+class StateCitiesInline(CompactInline):
     model = City
     extra = 1
     show_change_link = True
